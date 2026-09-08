@@ -1,4 +1,4 @@
-﻿# SPIKES: Clinical Telemetry & CGM Signal Processing Platform
+# SPIKES: Clinical Telemetry & CGM Signal Processing Platform
 
 [![Hackathon Winner](https://img.shields.io/badge/Award-Winner%20%7C%20HealthTech%20AI%20Hackathon-gold.svg)](https://www.birmingham.ac.uk/)
 [![Institution](https://img.shields.io/badge/University-University%20of%20Birmingham-red.svg)](https://www.birmingham.ac.uk/)
@@ -9,12 +9,6 @@
 An end-to-end clinical telemetry and physiological data analytics platform developed for the **University of Birmingham HealthTech AI Hackathon (Winner)**. 
 
 SPIKES translates high-frequency Continuous Glucose Monitor (CGM) time-series data, patient clinical metadata, and self-reported longitudinal lifestyle metrics into actionable clinical intelligence through advanced signal processing and a modern clinician dashboard.
-
----
-
-## 📸 Dashboard Preview
-
-![SPIKES Clinical Dashboard](docs/dashboard_preview.png)
 
 ---
 
@@ -42,10 +36,9 @@ SPIKES translates high-frequency Continuous Glucose Monitor (CGM) time-series da
 
 ```text
 SPIKES-AI/
-├── docs/                                    # Hackathon reports, slide decks, and assets
+├── docs/                                    # Hackathon reports and slide decks
 │   ├── healthAI_hackathon_report-1.pdf      # Detailed clinical hackathon submission report
-│   ├── Team SPIKES.pptx                     # Official presentation deck
-│   └── dashboard_preview.png                # Clinician dashboard screenshot
+│   └── Team SPIKES.pptx                     # Official presentation deck
 ├── spikes_app/
 │   └── web/                                 # Modern React + TypeScript + Vite frontend
 │       ├── src/                             # UI components, telemetry charts, dashboards
