@@ -1,0 +1,337 @@
+Client_ID,Health Gauge,Health Gauge Change,Sleep Gauge,Sleep Gauge Change,Nutrition Gauge,Nutrition Gauge Change,Movement Gauge,Movement Gauge Change,Stress Gauge,Stress Gauge Change,Connection Gauge,Connection Gauge Change,Negative Gauge
+SPIKES-001,9.0,improving,9.0,staying the same,8.0,improving,8.0,improving,9.0,staying the same,8.0,staying the same,9.0
+SPIKES-001,9.0,improving,9.0,staying the same,8.0,improving,8.0,improving,9.0,staying the same,8.0,staying the same,9.0
+SPIKES-001,9.0,improving,8.0,staying the same,8.0,improving,8.0,improving,9.0,improving,8.0,staying the same,9.0
+SPIKES-001,9.0,staying the same,9.0,staying the same,8.0,staying the same,8.0,improving,9.0,staying the same,9.0,staying the same,9.0
+SPIKES-001,9.0,improving,8.0,staying the same,8.0,improving,8.0,improving,9.0,staying the same,9.0,staying the same,9.0
+SPIKES-001,9.0,staying the same,9.0,staying the same,9.0,staying the same,8.0,improving,9.0,staying the same,8.0,improving,9.0
+SPIKES-001,9.0,staying the same,9.0,improving,8.0,improving,9.0,improving,9.0,staying the same,9.0,staying the same,9.0
+SPIKES-001,9.0,staying the same,9.0,improving,8.0,staying the same,8.0,staying the same,9.0,staying the same,8.0,staying the same,8.0
+SPIKES-001,9.0,improving,9.0,improving,8.0,improving,8.0,staying the same,9.0,staying the same,9.0,staying the same,9.0
+SPIKES-001,9.0,improving,9.0,staying the same,8.0,improving,9.0,improving,9.0,staying the same,9.0,staying the same,9.0
+SPIKES-001,10.0,improving,10.0,improving,9.0,staying the same,9.0,improving,9.0,staying the same,9.0,staying the same,9.0
+SPIKES-001,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0,staying the same,9.0,staying the same,9.0
+SPIKES-001,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0,staying the same,9.0,staying the same,9.0
+SPIKES-001,9.0,improving,10.0,improving,9.0,improving,9.0,improving,10.0,improving,9.0,staying the same,9.0
+SPIKES-002,9.0,improving,9.0,staying the same,8.0,staying the same,4.0,staying the same,5.0,staying the same,5.0,declining,6.0
+SPIKES-002,9.0,improving,9.0,staying the same,9.0,staying the same,4.0,declining,4.0,declining,4.0,staying the same,8.0
+SPIKES-002,9.0,staying the same,9.0,staying the same,8.0,staying the same,4.0,staying the same,4.0,staying the same,4.0,staying the same,8.0
+SPIKES-002,9.0,staying the same,9.0,staying the same,8.0,staying the same,4.0,staying the same,4.0,declining,4.0,staying the same,8.0
+SPIKES-002,9.0,staying the same,6.0,declining,9.0,improving,5.0,improving,3.0,declining,4.0,staying the same,8.0
+SPIKES-002,6.0,declining,9.0,staying the same,7.0,declining,5.0,declining,3.0,declining,4.0,staying the same,7.0
+SPIKES-002,7.0,declining,9.0,staying the same,7.0,declining,6.0,improving,2.0,declining,4.0,staying the same,8.0
+SPIKES-002,8.0,staying the same,9.0,staying the same,8.0,staying the same,6.0,improving,4.0,staying the same,4.0,staying the same,7.0
+SPIKES-002,7.0,staying the same,9.0,staying the same,9.0,improving,7.0,improving,2.0,declining,4.0,staying the same,7.0
+SPIKES-002,8.0,staying the same,6.0,declining,8.0,staying the same,4.0,declining,2.0,declining,4.0,staying the same,6.0
+SPIKES-002,8.0,staying the same,6.0,declining,8.0,staying the same,4.0,declining,2.0,declining,4.0,staying the same,6.0
+SPIKES-002,6.0,staying the same,9.0,staying the same,5.0,declining,4.0,staying the same,1.0,declining,4.0,staying the same,7.0
+SPIKES-002,7.0,staying the same,9.0,staying the same,8.0,staying the same,5.0,declining,1.0,declining,4.0,staying the same,7.0
+SPIKES-002,8.0,staying the same,8.0,staying the same,7.0,staying the same,5.0,declining,2.0,declining,4.0,staying the same,6.0
+SPIKES-003,7.0,staying the same,6.0,declining,8.0,staying the same,8.0,staying the same,6.0,staying the same,5.0,staying the same,5.0
+SPIKES-003,7.0,staying the same,5.0,declining,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,6.0
+SPIKES-003,7.0,staying the same,5.0,declining,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,6.0
+SPIKES-003,7.0,staying the same,5.0,declining,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,6.0
+SPIKES-003,7.0,staying the same,5.0,declining,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,6.0
+SPIKES-003,7.0,staying the same,5.0,declining,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,6.0
+SPIKES-003,7.0,staying the same,5.0,declining,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,6.0
+SPIKES-003,7.0,staying the same,5.0,declining,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,6.0
+SPIKES-003,7.0,staying the same,5.0,declining,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,6.0
+SPIKES-003,7.0,staying the same,5.0,declining,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,6.0
+SPIKES-003,7.0,staying the same,5.0,declining,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,6.0
+SPIKES-003,7.0,staying the same,5.0,declining,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,6.0
+SPIKES-003,7.0,staying the same,5.0,declining,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,6.0
+SPIKES-003,7.0,staying the same,5.0,declining,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,6.0
+SPIKES-004,5.0,improving,8.0,staying the same,6.0,improving,2.0,staying the same,5.0,staying the same,7.0,improving,8.0
+SPIKES-004,5.0,improving,8.0,staying the same,6.0,improving,2.0,staying the same,5.0,staying the same,7.0,improving,8.0
+SPIKES-004,8.0,staying the same,6.0,declining,7.0,staying the same,3.0,improving,5.0,staying the same,7.0,staying the same,7.0
+SPIKES-004,8.0,staying the same,6.0,declining,7.0,staying the same,3.0,improving,5.0,staying the same,7.0,staying the same,7.0
+SPIKES-004,8.0,staying the same,6.0,declining,6.0,declining,3.0,staying the same,8.0,staying the same,7.0,staying the same,7.0
+SPIKES-004,8.0,staying the same,8.0,improving,8.0,staying the same,3.0,staying the same,8.0,staying the same,7.0,staying the same,7.0
+SPIKES-004,8.0,staying the same,7.0,staying the same,7.0,declining,3.0,staying the same,8.0,staying the same,7.0,staying the same,7.0
+SPIKES-004,8.0,staying the same,7.0,staying the same,5.0,declining,3.0,staying the same,5.0,declining,8.0,staying the same,5.0
+SPIKES-004,8.0,staying the same,7.0,staying the same,7.0,staying the same,3.0,staying the same,6.0,declining,7.0,staying the same,7.0
+SPIKES-004,8.0,staying the same,8.0,staying the same,7.0,staying the same,3.0,staying the same,6.0,staying the same,7.0,staying the same,7.0
+SPIKES-004,8.0,staying the same,9.0,improving,8.0,staying the same,3.0,staying the same,5.0,staying the same,7.0,staying the same,7.0
+SPIKES-004,8.0,staying the same,7.0,declining,7.0,staying the same,3.0,staying the same,6.0,improving,7.0,staying the same,7.0
+SPIKES-004,8.0,staying the same,7.0,staying the same,7.0,staying the same,3.0,staying the same,8.0,staying the same,8.0,staying the same,7.0
+SPIKES-004,8.0,staying the same,7.0,staying the same,7.0,staying the same,3.0,staying the same,6.0,staying the same,7.0,staying the same,7.0
+SPIKES-005,7.0,staying the same,5.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0
+SPIKES-005,8.0,staying the same,6.0,improving,7.0,staying the same,7.0,staying the same,4.0,staying the same,7.0,staying the same,7.0
+SPIKES-005,7.0,staying the same,4.0,declining,7.0,staying the same,7.0,staying the same,4.0,staying the same,7.0,staying the same,7.0
+SPIKES-005,7.0,staying the same,4.0,staying the same,7.0,staying the same,7.0,staying the same,4.0,staying the same,7.0,staying the same,5.0
+SPIKES-005,7.0,staying the same,4.0,declining,5.0,staying the same,7.0,staying the same,4.0,staying the same,7.0,staying the same,7.0
+SPIKES-005,7.0,staying the same,6.0,improving,5.0,staying the same,6.0,staying the same,4.0,staying the same,7.0,staying the same,7.0
+SPIKES-005,7.0,staying the same,3.0,declining,5.0,declining,7.0,staying the same,4.0,staying the same,7.0,staying the same,7.0
+SPIKES-005,7.0,staying the same,5.0,staying the same,7.0,staying the same,7.0,staying the same,4.0,staying the same,7.0,staying the same,7.0
+SPIKES-005,7.0,staying the same,4.0,staying the same,6.0,staying the same,6.0,staying the same,6.0,declining,6.0,staying the same,4.0
+SPIKES-005,7.0,staying the same,6.0,staying the same,6.0,staying the same,6.0,staying the same,6.0,staying the same,6.0,staying the same,6.0
+SPIKES-005,8.0,staying the same,7.0,improving,4.0,declining,7.0,staying the same,7.0,staying the same,7.0,staying the same,5.0
+SPIKES-005,7.0,staying the same,6.0,staying the same,6.0,staying the same,5.0,declining,6.0,staying the same,6.0,staying the same,6.0
+SPIKES-005,7.0,staying the same,7.0,improving,6.0,staying the same,6.0,staying the same,6.0,staying the same,7.0,staying the same,7.0
+SPIKES-005,7.0,staying the same,4.0,declining,6.0,staying the same,7.0,staying the same,4.0,staying the same,7.0,staying the same,7.0
+SPIKES-006,7.0,staying the same,4.0,declining,6.0,staying the same,7.0,staying the same,4.0,staying the same,7.0,staying the same,7.0
+SPIKES-006,9.0,staying the same,7.0,improving,7.0,staying the same,9.0,staying the same,7.0,staying the same,7.0,staying the same,6.0
+SPIKES-006,8.0,staying the same,7.0,improving,6.0,staying the same,9.0,staying the same,6.0,declining,6.0,staying the same,6.0
+SPIKES-006,8.0,staying the same,7.0,improving,6.0,staying the same,8.0,staying the same,5.0,declining,6.0,staying the same,7.0
+SPIKES-006,8.0,staying the same,7.0,staying the same,6.0,declining,8.0,staying the same,5.0,declining,6.0,staying the same,6.0
+SPIKES-006,7.0,staying the same,7.0,improving,6.0,declining,7.0,staying the same,7.0,improving,7.0,improving,4.0
+SPIKES-006,7.0,staying the same,7.0,improving,6.0,declining,7.0,staying the same,5.0,declining,5.0,declining,5.0
+SPIKES-006,7.0,staying the same,6.0,declining,5.0,declining,6.0,staying the same,5.0,declining,5.0,declining,4.0
+SPIKES-006,8.0,staying the same,7.0,staying the same,7.0,improving,8.0,staying the same,6.0,improving,7.0,staying the same,5.0
+SPIKES-006,8.0,staying the same,7.0,staying the same,7.0,improving,8.0,staying the same,6.0,staying the same,7.0,staying the same,7.0
+SPIKES-006,7.0,staying the same,7.0,staying the same,5.0,declining,7.0,declining,4.0,declining,4.0,declining,5.0
+SPIKES-006,7.0,staying the same,7.0,staying the same,4.0,declining,7.0,staying the same,5.0,declining,5.0,declining,3.0
+SPIKES-006,7.0,staying the same,7.0,staying the same,4.0,declining,7.0,staying the same,5.0,staying the same,4.0,declining,3.0
+SPIKES-006,7.0,staying the same,7.0,improving,5.0,declining,8.0,staying the same,5.0,staying the same,4.0,declining,4.0
+SPIKES-007,7.0,staying the same,7.0,improving,5.0,declining,8.0,staying the same,5.0,staying the same,4.0,declining,4.0
+SPIKES-007,7.0,staying the same,7.0,improving,5.0,declining,8.0,staying the same,5.0,staying the same,4.0,declining,4.0
+SPIKES-007,8.0,improving,8.0,improving,8.0,staying the same,9.0,improving,3.0,staying the same,8.0,staying the same,6.0
+SPIKES-007,5.0,declining,4.0,declining,8.0,staying the same,8.0,staying the same,4.0,declining,8.0,staying the same,8.0
+SPIKES-007,8.0,improving,9.0,improving,8.0,staying the same,8.0,staying the same,5.0,improving,8.0,staying the same,8.0
+SPIKES-007,8.0,staying the same,9.0,improving,8.0,staying the same,8.0,staying the same,5.0,staying the same,8.0,staying the same,5.0
+SPIKES-007,8.0,staying the same,8.0,improving,8.0,staying the same,8.0,staying the same,6.0,improving,8.0,staying the same,5.0
+SPIKES-007,8.0,staying the same,7.0,staying the same,8.0,staying the same,6.0,declining,6.0,staying the same,8.0,staying the same,7.0
+SPIKES-007,8.0,staying the same,8.0,improving,8.0,staying the same,6.0,improving,5.0,staying the same,8.0,staying the same,6.0
+SPIKES-007,8.0,staying the same,8.0,staying the same,8.0,staying the same,6.0,staying the same,5.0,staying the same,8.0,staying the same,5.0
+SPIKES-007,8.0,staying the same,8.0,staying the same,8.0,staying the same,7.0,improving,5.0,staying the same,8.0,staying the same,6.0
+SPIKES-007,8.0,staying the same,9.0,improving,8.0,staying the same,7.0,improving,5.0,staying the same,8.0,staying the same,5.0
+SPIKES-007,8.0,staying the same,9.0,improving,8.0,staying the same,7.0,improving,5.0,staying the same,8.0,staying the same,5.0
+SPIKES-007,8.0,staying the same,8.0,improving,6.0,declining,7.0,staying the same,5.0,staying the same,8.0,staying the same,3.0
+SPIKES-008,8.0,staying the same,8.0,improving,6.0,declining,7.0,staying the same,5.0,staying the same,8.0,staying the same,3.0
+SPIKES-008,10.0,improving,8.0,improving,8.0,staying the same,6.0,improving,7.0,staying the same,10.0,staying the same,9.0
+SPIKES-008,8.0,improving,9.0,staying the same,9.0,improving,7.0,improving,8.0,staying the same,10.0,staying the same,9.0
+SPIKES-008,8.0,staying the same,5.0,staying the same,8.0,staying the same,8.0,improving,7.0,staying the same,10.0,staying the same,8.0
+SPIKES-008,9.0,staying the same,9.0,staying the same,8.0,staying the same,7.0,improving,7.0,staying the same,10.0,staying the same,8.0
+SPIKES-008,9.0,staying the same,4.0,staying the same,8.0,staying the same,6.0,staying the same,6.0,staying the same,10.0,staying the same,7.0
+SPIKES-008,8.0,staying the same,10.0,staying the same,8.0,staying the same,6.0,improving,7.0,staying the same,10.0,staying the same,8.0
+SPIKES-008,8.0,staying the same,7.0,staying the same,9.0,staying the same,7.0,staying the same,7.0,staying the same,10.0,staying the same,8.0
+SPIKES-008,8.0,staying the same,7.0,staying the same,9.0,staying the same,7.0,staying the same,7.0,staying the same,10.0,staying the same,8.0
+SPIKES-008,8.0,staying the same,7.0,staying the same,9.0,staying the same,7.0,staying the same,7.0,staying the same,10.0,staying the same,8.0
+SPIKES-008,8.0,staying the same,7.0,staying the same,9.0,staying the same,7.0,staying the same,7.0,staying the same,10.0,staying the same,8.0
+SPIKES-008,8.0,staying the same,7.0,staying the same,9.0,staying the same,7.0,staying the same,7.0,staying the same,10.0,staying the same,8.0
+SPIKES-008,8.0,staying the same,7.0,staying the same,9.0,staying the same,7.0,staying the same,7.0,staying the same,10.0,staying the same,8.0
+SPIKES-008,8.0,staying the same,7.0,staying the same,9.0,staying the same,7.0,staying the same,7.0,staying the same,10.0,staying the same,8.0
+SPIKES-009,7.0,staying the same,4.0,staying the same,7.0,staying the same,7.0,staying the same,4.0,staying the same,4.0,staying the same,3.0
+SPIKES-009,7.0,staying the same,6.0,staying the same,6.0,staying the same,6.0,staying the same,8.0,staying the same,4.0,declining,5.0
+SPIKES-009,7.0,staying the same,4.0,staying the same,7.0,staying the same,7.0,staying the same,4.0,staying the same,3.0,staying the same,3.0
+SPIKES-009,7.0,staying the same,4.0,declining,7.0,staying the same,7.0,staying the same,4.0,staying the same,4.0,declining,4.0
+SPIKES-009,7.0,staying the same,7.0,staying the same,6.0,staying the same,7.0,staying the same,4.0,staying the same,6.0,declining,4.0
+SPIKES-009,7.0,staying the same,4.0,staying the same,7.0,staying the same,7.0,staying the same,4.0,staying the same,4.0,staying the same,4.0
+SPIKES-009,7.0,staying the same,5.0,staying the same,7.0,staying the same,6.0,declining,4.0,staying the same,4.0,staying the same,5.0
+SPIKES-009,7.0,staying the same,6.0,staying the same,4.0,declining,4.0,declining,4.0,staying the same,6.0,staying the same,4.0
+SPIKES-009,7.0,staying the same,7.0,improving,7.0,declining,7.0,staying the same,4.0,staying the same,5.0,staying the same,4.0
+SPIKES-009,7.0,staying the same,7.0,improving,7.0,staying the same,7.0,staying the same,4.0,staying the same,4.0,staying the same,4.0
+SPIKES-009,7.0,staying the same,7.0,improving,7.0,staying the same,7.0,staying the same,4.0,staying the same,4.0,staying the same,4.0
+SPIKES-009,7.0,staying the same,8.0,staying the same,7.0,staying the same,7.0,staying the same,4.0,staying the same,4.0,staying the same,6.0
+SPIKES-009,7.0,staying the same,7.0,staying the same,4.0,declining,7.0,staying the same,4.0,staying the same,4.0,declining,4.0
+SPIKES-009,7.0,staying the same,5.0,staying the same,7.0,staying the same,7.0,staying the same,4.0,staying the same,4.0,staying the same,5.0
+SPIKES-010,7.0,staying the same,5.0,staying the same,7.0,staying the same,7.0,staying the same,4.0,staying the same,4.0,staying the same,5.0
+SPIKES-010,7.0,improving,7.0,staying the same,9.0,improving,4.0,staying the same,8.0,staying the same,8.0,staying the same,7.0
+SPIKES-010,8.0,improving,8.0,improving,9.0,improving,7.0,staying the same,8.0,staying the same,8.0,staying the same,9.0
+SPIKES-010,8.0,improving,7.0,improving,8.0,improving,7.0,staying the same,8.0,staying the same,8.0,staying the same,8.0
+SPIKES-010,8.0,staying the same,9.0,improving,9.0,improving,7.0,staying the same,7.0,staying the same,8.0,improving,8.0
+SPIKES-010,9.0,improving,9.0,improving,9.0,improving,7.0,staying the same,9.0,staying the same,8.0,improving,9.0
+SPIKES-010,9.0,improving,9.0,improving,9.0,improving,7.0,staying the same,9.0,staying the same,8.0,improving,9.0
+SPIKES-010,7.0,staying the same,6.0,declining,8.0,staying the same,7.0,staying the same,9.0,declining,9.0,improving,9.0
+SPIKES-010,8.0,improving,9.0,improving,9.0,improving,7.0,staying the same,7.0,staying the same,9.0,improving,9.0
+SPIKES-010,8.0,staying the same,7.0,staying the same,9.0,improving,7.0,staying the same,7.0,improving,9.0,improving,9.0
+SPIKES-010,8.0,improving,7.0,staying the same,8.0,improving,6.0,staying the same,7.0,staying the same,9.0,improving,9.0
+SPIKES-010,8.0,staying the same,8.0,staying the same,9.0,improving,7.0,staying the same,7.0,staying the same,8.0,staying the same,9.0
+SPIKES-010,8.0,improving,7.0,declining,9.0,staying the same,6.0,staying the same,7.0,declining,9.0,improving,9.0
+SPIKES-010,8.0,improving,8.0,improving,9.0,improving,7.0,staying the same,9.0,improving,9.0,improving,9.0
+SPIKES-011,8.0,staying the same,6.0,staying the same,8.0,staying the same,7.0,improving,8.0,staying the same,8.0,staying the same,8.0
+SPIKES-011,8.0,staying the same,7.0,staying the same,9.0,staying the same,7.0,staying the same,6.0,staying the same,8.0,staying the same,8.0
+SPIKES-011,8.0,improving,5.0,declining,8.0,improving,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0
+SPIKES-011,8.0,staying the same,8.0,improving,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,9.0
+SPIKES-011,8.0,staying the same,8.0,improving,8.0,improving,8.0,staying the same,8.0,staying the same,8.0,staying the same,9.0
+SPIKES-011,7.0,staying the same,7.0,declining,8.0,staying the same,8.0,staying the same,7.0,declining,8.0,staying the same,7.0
+SPIKES-011,8.0,staying the same,6.0,declining,8.0,improving,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0
+SPIKES-011,9.0,improving,8.0,staying the same,8.0,improving,8.0,staying the same,8.0,staying the same,8.0,staying the same,9.0
+SPIKES-011,8.0,staying the same,8.0,staying the same,8.0,improving,8.0,staying the same,8.0,staying the same,8.0,staying the same,9.0
+SPIKES-011,7.0,staying the same,6.0,declining,8.0,staying the same,7.0,staying the same,8.0,staying the same,8.0,staying the same,8.0
+SPIKES-011,8.0,staying the same,7.0,staying the same,8.0,improving,8.0,improving,7.0,staying the same,8.0,improving,9.0
+SPIKES-011,9.0,improving,9.0,improving,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,9.0
+SPIKES-011,8.0,staying the same,7.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,9.0
+SPIKES-011,9.0,improving,7.0,declining,9.0,improving,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0
+SPIKES-012,9.0,improving,7.0,declining,9.0,improving,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0
+SPIKES-012,9.0,improving,7.0,declining,9.0,improving,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0
+SPIKES-012,5.0,improving,7.0,improving,7.0,improving,5.0,staying the same,6.0,improving,5.0,staying the same,7.0
+SPIKES-012,5.0,improving,7.0,improving,7.0,improving,5.0,staying the same,6.0,improving,5.0,staying the same,7.0
+SPIKES-012,6.0,improving,6.0,declining,8.0,improving,7.0,staying the same,8.0,improving,8.0,improving,8.0
+SPIKES-012,7.0,improving,6.0,declining,7.0,improving,7.0,staying the same,7.0,improving,7.0,improving,8.0
+SPIKES-012,7.0,improving,9.0,staying the same,8.0,improving,7.0,staying the same,8.0,improving,8.0,staying the same,8.0
+SPIKES-012,8.0,improving,7.0,declining,9.0,improving,7.0,staying the same,8.0,improving,9.0,improving,9.0
+SPIKES-012,8.0,improving,7.0,staying the same,8.0,improving,7.0,staying the same,7.0,improving,7.0,staying the same,8.0
+SPIKES-012,8.0,improving,8.0,staying the same,8.0,improving,7.0,staying the same,6.0,improving,7.0,improving,8.0
+SPIKES-012,8.0,improving,7.0,staying the same,8.0,improving,7.0,staying the same,7.0,staying the same,7.0,staying the same,9.0
+SPIKES-012,8.0,improving,5.0,declining,8.0,improving,7.0,staying the same,7.0,improving,7.0,improving,9.0
+SPIKES-012,8.0,improving,6.0,staying the same,8.0,improving,7.0,staying the same,7.0,improving,7.0,staying the same,8.0
+SPIKES-012,8.0,improving,7.0,staying the same,8.0,improving,7.0,staying the same,7.0,improving,7.0,staying the same,9.0
+SPIKES-013,9.0,staying the same,4.0,staying the same,7.0,improving,7.0,improving,7.0,improving,9.0,staying the same,7.0
+SPIKES-013,8.0,staying the same,8.0,staying the same,8.0,improving,7.0,staying the same,6.0,staying the same,8.0,staying the same,7.0
+SPIKES-013,8.0,staying the same,6.0,staying the same,7.0,staying the same,7.0,staying the same,6.0,improving,8.0,staying the same,7.0
+SPIKES-013,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0
+SPIKES-013,7.0,staying the same,6.0,declining,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0
+SPIKES-013,7.0,staying the same,6.0,declining,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0
+SPIKES-013,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0
+SPIKES-013,7.0,staying the same,6.0,declining,7.0,staying the same,7.0,staying the same,7.0,declining,7.0,staying the same,7.0
+SPIKES-013,7.0,staying the same,8.0,improving,7.0,staying the same,7.0,improving,7.0,improving,8.0,staying the same,7.0
+SPIKES-013,7.0,staying the same,6.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0
+SPIKES-013,7.0,staying the same,7.0,improving,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,staying the same,7.0
+SPIKES-013,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0
+SPIKES-013,7.0,staying the same,6.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0
+SPIKES-013,7.0,staying the same,6.0,declining,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,7.0
+SPIKES-014,8.0,improving,7.0,staying the same,7.0,improving,8.0,improving,5.0,staying the same,8.0,staying the same,8.0
+SPIKES-014,8.0,improving,7.0,staying the same,7.0,improving,7.0,improving,5.0,staying the same,8.0,improving,8.0
+SPIKES-014,8.0,improving,6.0,staying the same,8.0,improving,8.0,improving,7.0,staying the same,8.0,staying the same,8.0
+SPIKES-014,7.0,staying the same,8.0,staying the same,6.0,staying the same,7.0,staying the same,7.0,staying the same,8.0,staying the same,7.0
+SPIKES-014,5.0,declining,6.0,declining,4.0,declining,5.0,staying the same,8.0,staying the same,8.0,staying the same,6.0
+SPIKES-014,8.0,staying the same,8.0,staying the same,7.0,staying the same,7.0,staying the same,4.0,staying the same,8.0,staying the same,8.0
+SPIKES-014,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,6.0,staying the same,8.0,staying the same,8.0
+SPIKES-014,7.0,improving,8.0,staying the same,5.0,declining,6.0,declining,5.0,declining,5.0,declining,5.0
+SPIKES-014,8.0,improving,8.0,improving,8.0,improving,8.0,staying the same,6.0,staying the same,7.0,staying the same,9.0
+SPIKES-014,7.0,improving,9.0,improving,7.0,staying the same,8.0,staying the same,7.0,staying the same,8.0,staying the same,8.0
+SPIKES-014,8.0,improving,8.0,staying the same,9.0,improving,8.0,staying the same,7.0,staying the same,9.0,staying the same,8.0
+SPIKES-014,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0
+SPIKES-014,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,9.0
+SPIKES-014,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-015,9.0,improving,5.0,declining,9.0,improving,9.0,improving,9.0,improving,9.0,improving,9.0
+SPIKES-016,8.0,improving,5.0,declining,6.0,improving,7.0,improving,3.0,declining,5.0,declining,7.0
+SPIKES-016,8.0,improving,6.0,staying the same,7.0,improving,7.0,improving,4.0,declining,5.0,staying the same,6.0
+SPIKES-016,6.0,declining,9.0,improving,8.0,improving,8.0,improving,7.0,improving,7.0,improving,8.0
+SPIKES-016,7.0,improving,9.0,improving,8.0,improving,8.0,improving,6.0,staying the same,7.0,staying the same,8.0
+SPIKES-016,8.0,improving,8.0,improving,8.0,improving,8.0,improving,7.0,improving,8.0,improving,9.0
+SPIKES-016,8.0,improving,6.0,declining,8.0,improving,8.0,improving,6.0,declining,7.0,staying the same,8.0
+SPIKES-016,5.0,declining,9.0,improving,8.0,improving,8.0,improving,7.0,improving,8.0,improving,9.0
+SPIKES-016,7.0,improving,8.0,improving,8.0,improving,7.0,staying the same,7.0,staying the same,7.0,staying the same,8.0
+SPIKES-016,7.0,declining,5.0,declining,8.0,improving,7.0,declining,5.0,declining,6.0,declining,8.0
+SPIKES-016,8.0,improving,5.0,declining,8.0,improving,8.0,improving,6.0,declining,8.0,improving,8.0
+SPIKES-016,8.0,improving,6.0,declining,8.0,improving,7.0,staying the same,6.0,declining,8.0,improving,9.0
+SPIKES-016,8.0,improving,5.0,declining,8.0,improving,8.0,improving,6.0,staying the same,8.0,improving,9.0
+SPIKES-016,8.0,improving,6.0,declining,8.0,improving,8.0,improving,6.0,staying the same,7.0,improving,8.0
+SPIKES-016,7.0,declining,7.0,improving,7.0,declining,7.0,staying the same,6.0,declining,7.0,declining,9.0
+SPIKES-017,7.0,declining,7.0,improving,7.0,declining,7.0,staying the same,6.0,declining,7.0,declining,9.0
+SPIKES-017,5.0,staying the same,2.0,declining,7.0,improving,3.0,improving,2.0,declining,3.0,declining,5.0
+SPIKES-017,4.0,improving,2.0,declining,6.0,improving,2.0,improving,2.0,staying the same,3.0,staying the same,4.0
+SPIKES-017,5.0,improving,7.0,improving,6.0,improving,4.0,improving,3.0,declining,4.0,staying the same,4.0
+SPIKES-017,5.0,improving,6.0,staying the same,5.0,improving,3.0,staying the same,2.0,declining,3.0,declining,4.0
+SPIKES-017,5.0,staying the same,7.0,staying the same,7.0,improving,3.0,improving,2.0,declining,3.0,declining,4.0
+SPIKES-017,5.0,staying the same,3.0,declining,7.0,improving,3.0,staying the same,2.0,declining,3.0,declining,5.0
+SPIKES-017,5.0,staying the same,4.0,staying the same,6.0,improving,3.0,staying the same,3.0,staying the same,3.0,staying the same,4.0
+SPIKES-017,6.0,staying the same,3.0,declining,7.0,improving,3.0,improving,2.0,declining,3.0,declining,5.0
+SPIKES-017,5.0,improving,3.0,declining,6.0,improving,3.0,improving,3.0,improving,3.0,declining,6.0
+SPIKES-017,6.0,improving,4.0,staying the same,3.0,improving,3.0,improving,3.0,declining,3.0,declining,4.0
+SPIKES-017,5.0,staying the same,4.0,declining,6.0,improving,3.0,improving,3.0,declining,3.0,declining,6.0
+SPIKES-017,6.0,staying the same,3.0,declining,6.0,improving,4.0,staying the same,5.0,improving,4.0,improving,5.0
+SPIKES-017,5.0,improving,4.0,declining,6.0,improving,3.0,improving,4.0,improving,4.0,improving,5.0
+SPIKES-018,5.0,improving,4.0,declining,6.0,improving,3.0,improving,4.0,improving,4.0,improving,5.0
+SPIKES-018,6.0,staying the same,7.0,staying the same,7.0,staying the same,7.0,staying the same,6.0,staying the same,5.0,staying the same,7.0
+SPIKES-018,7.0,staying the same,7.0,staying the same,8.0,improving,7.0,staying the same,7.0,staying the same,6.0,staying the same,8.0
+SPIKES-018,6.0,staying the same,7.0,staying the same,7.0,improving,6.0,staying the same,6.0,staying the same,6.0,staying the same,7.0
+SPIKES-018,6.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,7.0
+SPIKES-018,6.0,staying the same,7.0,staying the same,7.0,improving,6.0,staying the same,6.0,staying the same,6.0,staying the same,7.0
+SPIKES-018,7.0,staying the same,7.0,staying the same,8.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,7.0
+SPIKES-018,6.0,staying the same,8.0,improving,8.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-018,7.0,staying the same,7.0,staying the same,8.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-018,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,7.0
+SPIKES-018,7.0,staying the same,7.0,staying the same,8.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,7.0
+SPIKES-018,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,7.0
+SPIKES-018,7.0,staying the same,7.0,staying the same,8.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-018,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-019,7.0,staying the same,7.0,staying the same,7.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,8.0
+SPIKES-020,7.0,improving,10.0,staying the same,7.0,staying the same,10.0,staying the same,9.0,staying the same,9.0,staying the same,7.0
+SPIKES-020,8.0,staying the same,10.0,staying the same,8.0,staying the same,10.0,staying the same,9.0,staying the same,9.0,staying the same,10.0
+SPIKES-020,9.0,staying the same,10.0,staying the same,8.0,staying the same,9.0,staying the same,10.0,staying the same,10.0,staying the same,7.0
+SPIKES-020,8.0,staying the same,10.0,staying the same,8.0,staying the same,8.0,staying the same,9.0,staying the same,10.0,staying the same,8.0
+SPIKES-020,8.0,staying the same,10.0,staying the same,7.0,staying the same,9.0,staying the same,10.0,staying the same,10.0,staying the same,7.0
+SPIKES-020,8.0,staying the same,10.0,staying the same,8.0,staying the same,10.0,staying the same,10.0,staying the same,10.0,staying the same,10.0
+SPIKES-020,8.0,staying the same,10.0,staying the same,7.0,staying the same,9.0,staying the same,10.0,staying the same,6.0,declining,8.0
+SPIKES-020,8.0,staying the same,9.0,staying the same,8.0,staying the same,9.0,staying the same,10.0,staying the same,9.0,improving,8.0
+SPIKES-020,8.0,staying the same,10.0,staying the same,8.0,staying the same,10.0,improving,10.0,staying the same,10.0,staying the same,9.0
+SPIKES-020,8.0,staying the same,9.0,staying the same,7.0,staying the same,9.0,staying the same,10.0,staying the same,10.0,staying the same,8.0
+SPIKES-020,9.0,staying the same,10.0,staying the same,8.0,staying the same,10.0,staying the same,10.0,staying the same,10.0,staying the same,9.0
+SPIKES-020,8.0,staying the same,10.0,staying the same,8.0,staying the same,10.0,staying the same,10.0,staying the same,10.0,staying the same,9.0
+SPIKES-020,8.0,staying the same,10.0,staying the same,7.0,staying the same,8.0,staying the same,10.0,staying the same,10.0,staying the same,7.0
+SPIKES-020,8.0,staying the same,10.0,staying the same,8.0,staying the same,9.0,staying the same,10.0,staying the same,10.0,staying the same,9.0
+SPIKES-021,8.0,staying the same,10.0,staying the same,8.0,staying the same,9.0,staying the same,10.0,staying the same,10.0,staying the same,9.0
+SPIKES-021,6.0,declining,4.0,declining,7.0,staying the same,7.0,declining,1.0,declining,7.0,improving,7.0
+SPIKES-021,7.0,staying the same,3.0,declining,7.0,staying the same,4.0,declining,9.0,staying the same,8.0,staying the same,7.0
+SPIKES-021,7.0,improving,8.0,improving,8.0,staying the same,8.0,improving,9.0,staying the same,6.0,declining,7.0
+SPIKES-021,8.0,improving,9.0,improving,8.0,staying the same,6.0,staying the same,8.0,staying the same,8.0,staying the same,9.0
+SPIKES-021,9.0,improving,9.0,improving,9.0,improving,8.0,staying the same,6.0,staying the same,6.0,declining,8.0
+SPIKES-021,9.0,improving,9.0,improving,8.0,staying the same,8.0,improving,9.0,staying the same,9.0,improving,8.0
+SPIKES-021,6.0,declining,8.0,staying the same,5.0,declining,6.0,declining,10.0,declining,10.0,improving,4.0
+SPIKES-021,6.0,declining,5.0,declining,6.0,declining,5.0,declining,5.0,staying the same,9.0,improving,5.0
+SPIKES-021,8.0,improving,9.0,improving,7.0,improving,6.0,staying the same,6.0,staying the same,9.0,staying the same,8.0
+SPIKES-021,7.0,declining,4.0,declining,6.0,declining,5.0,declining,7.0,declining,6.0,declining,6.0
+SPIKES-021,6.0,declining,5.0,declining,5.0,declining,4.0,declining,5.0,staying the same,7.0,staying the same,5.0
+SPIKES-021,7.0,staying the same,9.0,improving,6.0,staying the same,7.0,improving,5.0,staying the same,9.0,staying the same,8.0
+SPIKES-021,8.0,improving,8.0,staying the same,8.0,improving,9.0,improving,8.0,improving,9.0,staying the same,8.0
+SPIKES-022,7.0,declining,3.0,declining,5.0,staying the same,6.0,improving,7.0,declining,8.0,improving,6.0
+SPIKES-022,7.0,declining,3.0,declining,5.0,staying the same,6.0,improving,7.0,declining,8.0,improving,6.0
+SPIKES-022,7.0,staying the same,6.0,staying the same,7.0,improving,5.0,improving,9.0,declining,8.0,improving,7.0
+SPIKES-022,7.0,improving,6.0,improving,6.0,improving,6.0,improving,6.0,staying the same,9.0,improving,5.0
+SPIKES-022,7.0,improving,6.0,improving,5.0,improving,7.0,improving,9.0,staying the same,9.0,improving,4.0
+SPIKES-022,7.0,improving,7.0,improving,6.0,staying the same,8.0,improving,9.0,staying the same,8.0,improving,3.0
+SPIKES-022,6.0,declining,7.0,improving,6.0,declining,7.0,improving,9.0,declining,8.0,improving,3.0
+SPIKES-022,6.0,declining,6.0,declining,6.0,declining,6.0,declining,9.0,declining,8.0,staying the same,4.0
+SPIKES-022,7.0,staying the same,7.0,improving,6.0,improving,7.0,improving,8.0,improving,9.0,improving,6.0
+SPIKES-022,7.0,improving,7.0,improving,6.0,improving,6.0,improving,9.0,staying the same,8.0,staying the same,4.0
+SPIKES-022,7.0,improving,7.0,staying the same,6.0,improving,7.0,staying the same,7.0,improving,9.0,improving,6.0
+SPIKES-022,7.0,staying the same,7.0,improving,7.0,improving,7.0,improving,8.0,staying the same,9.0,improving,6.0
+SPIKES-022,7.0,staying the same,7.0,improving,7.0,improving,7.0,improving,8.0,staying the same,9.0,improving,6.0
+SPIKES-022,7.0,improving,6.0,improving,6.0,improving,7.0,improving,7.0,improving,9.0,staying the same,4.0
+SPIKES-023,7.0,improving,6.0,improving,6.0,improving,7.0,improving,7.0,improving,9.0,staying the same,4.0
+SPIKES-023,9.0,staying the same,7.0,staying the same,9.0,staying the same,9.0,staying the same,3.0,staying the same,5.0,staying the same,8.0
+SPIKES-023,9.0,staying the same,7.0,staying the same,7.0,declining,9.0,staying the same,4.0,staying the same,5.0,staying the same,6.0
+SPIKES-023,8.0,staying the same,8.0,staying the same,7.0,declining,9.0,staying the same,4.0,staying the same,5.0,staying the same,8.0
+SPIKES-023,8.0,staying the same,9.0,staying the same,8.0,staying the same,8.0,staying the same,2.0,declining,5.0,staying the same,8.0
+SPIKES-023,9.0,staying the same,7.0,staying the same,8.0,staying the same,9.0,staying the same,6.0,improving,5.0,staying the same,9.0
+SPIKES-023,9.0,staying the same,7.0,declining,8.0,staying the same,9.0,staying the same,6.0,staying the same,5.0,staying the same,8.0
+SPIKES-023,9.0,staying the same,9.0,staying the same,8.0,staying the same,9.0,staying the same,7.0,improving,5.0,staying the same,8.0
+SPIKES-023,9.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,improving,5.0,staying the same,8.0
+SPIKES-023,9.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,improving,5.0,staying the same,8.0
+SPIKES-023,9.0,staying the same,7.0,staying the same,7.0,declining,9.0,staying the same,8.0,improving,5.0,staying the same,7.0
+SPIKES-023,9.0,staying the same,8.0,staying the same,8.0,staying the same,8.0,staying the same,7.0,staying the same,5.0,staying the same,7.0
+SPIKES-023,9.0,staying the same,7.0,staying the same,7.0,declining,8.0,staying the same,6.0,declining,5.0,staying the same,7.0
+SPIKES-023,9.0,staying the same,8.0,staying the same,7.0,declining,9.0,staying the same,7.0,staying the same,5.0,staying the same,8.0
+SPIKES-024,9.0,staying the same,6.0,improving,7.0,staying the same,7.0,improving,5.0,improving,9.0,staying the same,8.0
+SPIKES-024,8.0,staying the same,8.0,improving,8.0,improving,8.0,staying the same,5.0,staying the same,8.0,staying the same,8.0
+SPIKES-024,8.0,staying the same,7.0,staying the same,7.0,improving,8.0,staying the same,4.0,declining,8.0,staying the same,8.0
+SPIKES-024,8.0,staying the same,7.0,staying the same,7.0,improving,8.0,staying the same,4.0,declining,8.0,staying the same,8.0
+SPIKES-024,8.0,staying the same,7.0,staying the same,7.0,improving,8.0,staying the same,4.0,declining,8.0,staying the same,8.0
+SPIKES-024,8.0,staying the same,7.0,staying the same,7.0,improving,8.0,staying the same,6.0,staying the same,8.0,staying the same,8.0
+SPIKES-024,8.0,staying the same,7.0,staying the same,7.0,improving,8.0,staying the same,6.0,staying the same,8.0,staying the same,8.0
+SPIKES-024,8.0,staying the same,7.0,staying the same,8.0,staying the same,8.0,staying the same,6.0,staying the same,8.0,staying the same,8.0
+SPIKES-024,8.0,staying the same,7.0,staying the same,8.0,staying the same,8.0,staying the same,6.0,staying the same,8.0,staying the same,8.0
+SPIKES-024,8.0,staying the same,3.0,declining,6.0,declining,8.0,staying the same,4.0,staying the same,8.0,staying the same,8.0
+SPIKES-024,8.0,staying the same,3.0,declining,6.0,declining,8.0,staying the same,4.0,staying the same,8.0,staying the same,8.0
+SPIKES-024,8.0,staying the same,4.0,declining,8.0,improving,8.0,staying the same,9.0,staying the same,8.0,staying the same,8.0
+SPIKES-024,8.0,staying the same,7.0,improving,8.0,staying the same,8.0,staying the same,9.0,improving,8.0,staying the same,8.0
+SPIKES-024,8.0,staying the same,7.0,improving,8.0,staying the same,8.0,staying the same,9.0,improving,8.0,staying the same,8.0

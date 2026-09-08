@@ -1,0 +1,7 @@
+Pillar,r_spike_count,p_spike_count,r_mean_glucose,p_mean_glucose,n_days
+Health,-0.472,0.121,-0.459,0.1338,12
+Sleep,-0.273,0.3908,-0.263,0.4097,12
+Nutrition,-0.524,0.08,-0.354,0.2585,12
+Movement,-0.272,0.3915,-0.21,0.5116,12
+Stress,0.271,0.3933,-0.469,0.124,12
+Connection,0.354,0.2588,0.41,0.1853,12
